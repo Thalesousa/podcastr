@@ -1,18 +1,17 @@
-<div align="center">
-  <img src=".github/podcastr-logo.svg" alt="Podcastr logo">
-</div>
-
 ## Podcastr
+
 
 [![Author](https://img.shields.io/badge/author-thalesousa-8257E5?style=flat-square)](https://github.com/thalesousa)
 [![Languages](https://img.shields.io/github/languages/count/thalesousa/podcastr?color=%238257E5&style=flat-square)](#)
 [![Stars](https://img.shields.io/github/stars/thalesousa/podcastr?color=8257E5&style=flat-square)](https://github.com/thalesousa/podcastr/stargazers)
 
+![thumbnail](.github/thumbnail.png)
+
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
 </h4>
 
-![Podcastr preview](.github/app-preview.png)
+![expand](.github/expand.png)
 
 ## Tecnologies
 
